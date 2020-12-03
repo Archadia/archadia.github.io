@@ -4,5 +4,11 @@
         "sr": [2700, 2500, 3200],
         "roles": "ds",
         "preferredRole": "d"
+    },
+    {
+        "name": "Pseudonym",
+        "sr": [3600, 504, 4400],
+        "roles": "ts",
+        "preferredRole": "s"
     }
 ]
