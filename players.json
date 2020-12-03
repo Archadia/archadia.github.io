@@ -1,0 +1,8 @@
+[
+    {
+        "name": "TestPlayer",
+        "sr": [2700, 2500, 3200],
+        "roles": "ds",
+        "preferredRole": "d"
+    }
+]
